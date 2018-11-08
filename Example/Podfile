@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LJYAuthorKit_Category_Example' do
+  pod 'LJYAuthorKit_Category', :path => '../'
+
+  target 'LJYAuthorKit_Category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
