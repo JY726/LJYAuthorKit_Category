@@ -1,0 +1,30 @@
+{
+  "name": "LJYAuthorKit_Category",
+  "version": "1.0.0",
+  "summary": "LJYAuthorKit的Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JY726/LJYAuthorKit_Category.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1048969139@qq.com": "1048969139@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/JY726/LJYAuthorKit_Category.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJYAuthorKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "LJYAPIsKit": [
+
+    ]
+  }
+}
